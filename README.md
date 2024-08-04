@@ -2,7 +2,7 @@
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
-Feel free donate to my EVM address
+Feel free donate to author EVM address
 
 EVM :
 
@@ -15,11 +15,11 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc721-mint-token.git
+git clone https://github.com/salsa1515/deploy-erc721.git
 ```
 
 ```
-cd swisstronik-erc721-mint-token
+cd deploy-erc721
 ```
 
 ### 2. Install Dependency
